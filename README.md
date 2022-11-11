@@ -58,9 +58,13 @@ https://grouplens.org/datasets/movielens/100k/ (100,000 ratings from 1000 users 
 ---
 ## Application Process
 1. Interested candidates should choose <ins>**one**</ins> problem from the above list of problems and prepare a <ins>**1 page**</ins> proposal describing their approach and key milestones. Please note that the proposal should clearly state how <ins>**you**</ins> would approach the problem and the <ins>**corresponding work breakdown structure along with a timeline.**</ins> **Proposals exceeding 1 page and/or which are very generic will not be considered.**
+2. You can submit your proposal, latest resume and other relevant details using this form till **November 30th 2022**: [Apply Now](https://forms.gle/29EvS4rzDPh1j7nB8)
+3. Shortlisted candidates will be notified by **December 1st, 2022**, followed by an online interview.
+4. Selected candidates will be notified by **December 4th, 2022**; Internship would start from **6th of December 2022.**
 
 ## Perks
 1. Work experience in cutting edge areas of machine learning/AI on real-world customer experience management problems
 2. Stipend
 
 ## Queries
+You can submit your queries [here](https://forms.gle/brxCAic84pCj3thR6). We will get in touch with you.
