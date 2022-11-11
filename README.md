@@ -1,5 +1,5 @@
 ## Data Science Internship Opportunities at Flytxt R&D (December 2022 - January 2023)
-We are looking for self-motivated individuals with a passion to solve real-world problems in emerging areas of machine learning/AI including federated privacy preserving machine learning and explainable AI. You will be responsible to design, code, test and deploy PoCs which demonstrate the value in applying these advanced techniques on usecases in customer experience management. You would be working in a fast-paced environment, and would need to pick up concepts through a combination of self-learning and your assigned mentor's guidance. Please note that this will be a remote internship program.
+We are looking for self-motivated individuals with a passion to solve real-world problems in emerging areas of machine learning/AI including federated privacy preserving recommenders and explainable AI. You will be responsible to design, code, test and deploy PoCs which demonstrate the value in applying these advanced techniques on usecases in customer experience management. You would be working in a fast-paced environment, and would need to pick up concepts through a combination of self-learning and your assigned mentor's guidance. Please note that this will be a remote internship program.
 
 ## Who can apply?
 1. Students in 3rd/4th year B.Tech program in Computer Science or a related discipline (Applied Mathematics, Statistics, Electrical and/or Computer Engineering) with a focus on Artificial Intelligence / Machine Learning. Final year M.Tech/MS/Ph.D students from the above disciplines are also eligible.
@@ -35,12 +35,12 @@ Brownie points for setting up an interactive demo of the model on a public cloud
 https://www.kaggle.com/jpacse/datasets-for-churn-telecom (71047 instances, 58 features)
 
 ---
-### Problem 2: Federated Recommender System
+### Problem 2: Federated Privacy Preserving Recommender System
 #### Backdrop:
 Personalized recommendations help customers to easily discover relevant items/content, thereby increasing their engagement. As user preferences are fragmented across businesses,  federated privacy preserving recommender systems will be mutually beneficial for customers and businesses. For instance, an OTT media streaming service could improve its recommendations by securely combining a user’s content preferences with her profile and mobility patterns that are available with a Telco partner.
 
 #### Goal:
-Create a federated recommender system to recommend movies to users by securely combining the user’s movie rating data, movie attributes, and user attributes which are split across two parties, without requiring data sharing in plain. Both parties have overlapping users but different sets of features. Party 1 maintains the user profiles (age, gender, occupation, etc.), while Party 2 maintains movie attributes (name, release date, genre, etc.) and user’s movie rating. Recommender model is trained on overlapping users. Inference should be possible for all users (users with a profile but no rating history as well as users with a rating history but no profile should get recommendations)
+Create a federated recommender system to recommend movies to users by securely combining the user’s movie rating data, movie attributes, and user attributes which are split across two parties, without requiring data sharing in plain. Both parties have overlapping users but different sets of features. Party 1 maintains the user profiles (age, gender, occupation, etc.), while Party 2 maintains movie attributes (name, release date, genre, etc.) and user’s movie rating. Recommender model is trained on overlapping users. Inference should be possible for all users (users with a profile but no rating history as well as users with a rating history but no profile should both get recommendations)
 
 The model should be built using PySyft, an open-source project from OpenMined. (https://github.com/OpenMined/PySyft)
 
