@@ -1,4 +1,4 @@
-## Data Science Internship Opportunities at Flytxt R&D (December 2022)
+## Data Science Internship Opportunities at Flytxt R&D (December 2022 - January 2023)
 We are looking for self-motivated individuals with a passion to solve real-world problems in emerging areas of machine learning/AI including federated privacy preserving machine learning and explainable AI. You will be responsible to design, code, test and deploy PoCs which demonstrate the value in applying these advanced techniques on usecases in customer experience management. You would be working in a fast-paced environment, and would need to pick up concepts through a combination of self-learning and your assigned mentor's guidance. Please note that this will be a remote internship program.
 
 ## Who can apply?
@@ -60,7 +60,7 @@ https://grouplens.org/datasets/movielens/100k/ (100,000 ratings from 1000 users 
 1. Interested candidates should choose <ins>**one**</ins> problem from the above list of problems and prepare a <ins>**1 page**</ins> proposal describing their approach and key milestones. Please note that the proposal should clearly state how <ins>**you**</ins> would approach the problem and the <ins>**corresponding work breakdown structure along with a timeline.**</ins> **Proposals exceeding 1 page and/or which are very generic will not be considered.**
 2. You can submit your proposal, latest resume and other relevant details using this form till **November 30th 2022**: [Apply Now](https://forms.gle/29EvS4rzDPh1j7nB8)
 3. Shortlisted candidates will be notified by **December 1st, 2022**, followed by an online interview.
-4. Selected candidates will be notified by **December 4th, 2022**; Internship would start from **6th of December 2022.**
+4. Selected candidates will be notified by **December 4th, 2022**; Internship would start from **12th of December 2022.**
 
 ## Perks
 1. Work experience in cutting edge areas of machine learning/AI on real-world customer experience management problems
