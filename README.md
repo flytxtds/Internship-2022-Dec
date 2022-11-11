@@ -45,7 +45,7 @@ Create a federated recommender system to recommend movies to users by securely c
 The model should be built using PySyft, an open-source project from OpenMined. (https://github.com/OpenMined/PySyft)
 
 #### Success Criteria:
-The federated recommender model should give better predictive performance (Precision, Recall, F1, and Normalized Discounted Cumulative Gain) than a model trained only on ratings data and item profile.
+The federated recommender model should give better predictive performance (Precision, Recall, F1, and Normalized Discounted Cumulative Gain) than a model trained only on ratings data and movie attributes.
 
 Brownie points for setting up an interactive demo of the model on a public cloud, covering the following functionality:
 1. User uploads datasets to different parties.
