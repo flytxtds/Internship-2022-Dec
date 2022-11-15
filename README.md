@@ -1,4 +1,4 @@
-## Data Science Internship Opportunities at Flytxt R&D (December 2022 - January 2023)
+## Data Science Internship Opportunities at Flytxt R&D (December 2022 - February 2023)
 We are looking for self-motivated individuals with a passion to solve real-world problems in emerging areas of machine learning/AI including federated privacy preserving recommenders and explainable AI. You will be responsible to design, code, test and deploy PoCs which demonstrate the value in applying these advanced techniques on usecases in customer experience management. You would be working in a fast-paced environment, and would need to pick up concepts through a combination of self-learning and your assigned mentor's guidance. Please note that this will be a remote internship program.
 
 ## Who can apply?
